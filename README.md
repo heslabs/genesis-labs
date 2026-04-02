@@ -78,7 +78,7 @@ After building the scene, you retrieve the joint DOF indices and set control gai
 [[Readthedocs]](https://genesis-world.readthedocs.io/en/latest/user_guide/getting_started/control_your_robot.html)
 
 ```
-python
+## python
 import numpy as np
 import genesis as gs
 
@@ -133,7 +133,7 @@ IK solving and motion planning are single-method calls on the robot entity. Afte
 [[Readthedocs]](https://genesis-world.readthedocs.io/en/v0.3.3/user_guide/getting_started/inverse_kinematics_motion_planning.html)
 
 ```
-python
+## python
 import numpy as np
 import genesis as gs
 
@@ -248,7 +248,7 @@ You can weld two links together at runtime to simulate suction or magnetic gripp
 [[Readthedocs]](https://genesis-world.readthedocs.io/en/latest/user_guide/getting_started/control_your_robot.html)
 
 ```
-python
+## python
 import numpy as np
 import genesis as gs
 
