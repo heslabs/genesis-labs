@@ -28,8 +28,6 @@ python3 -m hello.lab5
 
 <video width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/d4453114-41d3-4ec3-b328-85f41017c13a"/>
 
-<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/d5f2cee3-2a03-40bd-8750-db07045d7915" />
-
 ---
 ## Labs: Car simulation
 
