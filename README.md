@@ -24,6 +24,12 @@ python3 -m hello.lab4
 python3 -m hello.lab5
 ```
 
+---
+
+
+
+https://github.com/user-attachments/assets/d4453114-41d3-4ec3-b328-85f41017c13a
+
 
 ---
 ## Labs: Car simulation
