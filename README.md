@@ -8,7 +8,7 @@ Using venv (built-in, simplest)
 #!/bin/bash -f
 python -m venv myenv               # Create
 source myenv/bin/activate          # Activate
-pip install -r requirements.txt    # restore
+pip install -r requirements.txt    # Install required packages
 deactivate                         # Deactivate
 ```
 
