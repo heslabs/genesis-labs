@@ -43,7 +43,7 @@ You can configure gravity, simulation timestep, and viewer camera in the scene c
 ## python
 import genesis as gs
 
-gs.init(backend=gs.gpu)
+gs.init(backend=gs.cpu)
 
 scene = gs.Scene(
     sim_options=gs.options.SimOptions(
