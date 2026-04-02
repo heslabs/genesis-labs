@@ -6,12 +6,9 @@
 Using venv (built-in, simplest)
 ```
 ## bash
-# Create
-python -m venv myenv
-# Activate
-source myenv/bin/activate
-# Deactivate
-deactivate
+python -m venv myenv       # Create
+source myenv/bin/activate  # Activate
+deactivate                 # Deactivate
 ```
 
 ---
