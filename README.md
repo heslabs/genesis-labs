@@ -15,7 +15,7 @@ deactivate
 ```
 
 ---
-## Hello Genesis
+## Labs: Hello Genesis
 
 ```
 source ./myenv/bin/activate
@@ -27,7 +27,7 @@ python3 -m hello.lab5
 
 
 ---
-## Car simulation
+## Labs: Car simulation
 
 ```
 source ./myenv/bin/activate
