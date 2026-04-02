@@ -1,4 +1,4 @@
-# Genesis labs
+# Genesis examples
 
 ---
 ## Create Python environment
