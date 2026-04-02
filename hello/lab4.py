@@ -43,5 +43,5 @@ franka.set_dofs_position(
     dofs_idx,
 )
 
-for i in range(1000):
+for i in range(300):
     scene.step()
