@@ -1,11 +1,12 @@
 # Genesis labs
 
 Claude> Provide the example for Genesis, a robotic simulators
+
 Here's a comprehensive reference of Genesis examples drawn from the official documentation and GitHub:
 
 ### 1. Installation
 ```
-# bash
+## bash
 pip install torch torchvision torchaudio
 pip install genesis-world
 # Also requires Python ≥ 3.9 and PyTorch
