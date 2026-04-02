@@ -6,8 +6,12 @@ Genesis is a physics platform designed for general-purpose Robotics/Embodied AI/
 * A powerful and fast photo-realistic rendering system.
 * A generative data engine that transforms user-prompted natural language description into various modalities of data.
 
+
 ---
-## Create Python environment
+## Quick Start Guide
+
+---
+### Create Python environment
 
 Using venv (built-in, simplest)
 ```
@@ -19,7 +23,7 @@ deactivate                         # Deactivate
 ```
 
 ---
-## Labs: Hello Genesis
+### Labs: Hello Genesis
 
 ```
 #!/bin/bash -f
@@ -37,7 +41,7 @@ https://github.com/user-attachments/assets/3102a5d3-cfd6-4795-8b59-0cf2596e0a14
 
  
 ---
-## Labs: Car simulation
+### Labs: Car simulation
 
 ```
 #!/bin/bash -f
