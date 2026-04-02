@@ -3,6 +3,19 @@
 ---
 ## Create Python environment
 
+Using venv (built-in, simplest)
+```
+## bash
+# Create
+python -m venv myenv
+
+# Activate
+source myenv/bin/activate        # macOS/Linux
+myenv\Scripts\activate           # Windows
+
+# Deactivate
+deactivate
+```
 
 ---
 ## Hello Genesis
