@@ -9,8 +9,7 @@ Using venv (built-in, simplest)
 # Create
 python -m venv myenv
 # Activate
-source myenv/bin/activate        # macOS/Linux
-myenv\Scripts\activate           # Windows
+source myenv/bin/activate
 # Deactivate
 deactivate
 ```
