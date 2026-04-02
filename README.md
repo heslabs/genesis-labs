@@ -82,7 +82,7 @@ After building the scene, you retrieve the joint DOF indices and set control gai
 import numpy as np
 import genesis as gs
 
-gs.init(backend=gs.gpu)
+gs.init(backend=gs.cpu)
 
 scene = gs.Scene(
     sim_options=gs.options.SimOptions(dt=0.01),
@@ -137,7 +137,7 @@ IK solving and motion planning are single-method calls on the robot entity. Afte
 import numpy as np
 import genesis as gs
 
-gs.init(backend=gs.gpu)
+gs.init(backend=gs.cpu)
 
 scene = gs.Scene(
     sim_options=gs.options.SimOptions(dt=0.01),
@@ -206,7 +206,7 @@ For soft-body simulation, you enable the MPM solver alongside the rigid solver a
 [[Readthedocs]](https://genesis-world.readthedocs.io/en/latest/user_guide/getting_started/soft_robots.html)
 
 ```
-python
+## python
 import genesis as gs
 
 gs.init(seed=0, precision='32', logging_level='info')
