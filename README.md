@@ -25,8 +25,8 @@ python3 -m hello.lab5
 ```
 
 ---
-<video width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/d4453114-41d3-4ec3-b328-85f41017c13a"/>
-
+https://github.com/user-attachments/assets/d4453114-41d3-4ec3-b328-85f41017c13a
+ 
 ---
 ## Labs: Car simulation
 
@@ -38,4 +38,5 @@ python3 -m carsim.test
  
 ---
 
-<video width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/aa9cfd7f-040b-4c8a-a7f6-2ece28088c73"/>
+https://github.com/user-attachments/assets/aa9cfd7f-040b-4c8a-a7f6-2ece28088c73
+ 
