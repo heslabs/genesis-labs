@@ -1,4 +1,17 @@
 # Genesis labs
 
-Claude> Provide the example for Genesis, a robotic simulators
+---
+## Create Python environment
 
+
+---
+## Hello Genesis
+
+
+---
+## Car simulation
+
+```
+source ./myenv/bin/activate
+python3 -m carsim.test
+```
