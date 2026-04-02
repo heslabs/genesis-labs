@@ -6,9 +6,10 @@
 Using venv (built-in, simplest)
 ```
 #!/bin/bash -f
-python -m venv myenv       # Create
-source myenv/bin/activate  # Activate
-deactivate                 # Deactivate
+python -m venv myenv               # Create
+source myenv/bin/activate          # Activate
+pip install -r requirements.txt    # restore
+deactivate                         # Deactivate
 ```
 
 ---
