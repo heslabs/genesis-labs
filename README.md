@@ -1,7 +1,7 @@
 # Genesis examples
+* [[Github:Genesis-Embodied-AI-Genesis]](https://github.com/Genesis-Embodied-AI/Genesis)
 
-Genesis is a physics platform designed for general-purpose Robotics/Embodied AI/Physical AI applications. It is simultaneously multiple things:[[Github:Genesis-Embodied-AI
-Genesis]](https://github.com/Genesis-Embodied-AI/Genesis)
+Genesis is a physics platform designed for general-purpose Robotics/Embodied AI/Physical AI applications. It is simultaneously multiple things:
 * A universal physics engine re-built from the ground up, capable of simulating a wide range of materials and physical phenomena.
 * A lightweight, ultra-fast, pythonic, and user-friendly robotics simulation platform.
 * A powerful and fast photo-realistic rendering system.
